@@ -1,0 +1,14 @@
+#screen{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+
+}
+#screen button{
+  width: 90px;
+  color: rgb(6, 6, 6);
+  font-weight: bold;
+  font-family: monospace;
+  }
